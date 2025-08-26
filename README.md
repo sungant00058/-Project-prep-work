@@ -9,7 +9,8 @@
 </head>
 <body>
     <header>
-        <img src="logo.png" alt="Website Logo" />
+        <img src="<img width="400" height="422" alt="image" src="https://github.com/user-attachments/assets/86708741-b558-41ba-8989-2e116543c5bd" />
+" alt="Website Logo" />
         <nav>
             <ul>
                 <li><a href="index.html">Home</a></li>
