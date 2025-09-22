@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <img src="<img width="400" height="422" alt="image" src="[https://github.com/user-attachments/assets/86708741-b558-41ba-8989-2e116543c5bd](https://www.pngall.com/wp-content/uploads/13/Github-Logo-PNG-Photo.png)" />
+        <img src="<img width="400" height="422" alt="image" src="[https://www.pngall.com/wp-content/uploads/13/Github-Logo-PNG-Photo.png]" />
 " alt="Website Logo" />
         <nav>
             <ul>
@@ -51,4 +51,4 @@
     </footer>
 </body>
 </html>
-<img width="468" height="635" alt="image" src="https://github.com/user-attachments/assets/d4d9d001-13e3-416a-b07a-8b1e475f5c39" />
+<img width="468" height="635" alt="image" src="https://www.pngall.com/wp-content/uploads/13/Github-Logo-PNG-Photo.png" />
