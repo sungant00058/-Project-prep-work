@@ -24,9 +24,9 @@
     
     <main>
         <h1>Welcome to Our Website</h1>
-        <img src="image1.jpg" alt="Description of image 1">
-        <img src="image2.jpg" alt="Description of image 2">
-        <img src="image3.jpg" alt="Description of image 3">
+        <img src="https://tse4.mm.bing.net/th/id/OIP.fWuGnCHEK_6fUlOHM4REwgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3jpg" alt="Description of image 1">
+        <img src="https://cdn-images-1.medium.com/max/1600/1*exCFWgo1cXpgCBmrwFRUUg.jpg" alt="Description of image 2">
+        <img src="https://miro.medium.com/v2/resize:fit:828/1*JD846dt26_bXC-A1U1bRLQ.jpg" alt="Description of image 3">
         
         <section>
             <h2>Mission</h2>
@@ -45,10 +45,12 @@
 
     <footer>
         <p>Copyright © 2023 Our Website.</p>
-        <a href="https://external-link.com">External Link 1</a>
-        <a href="https://external-link.com">External Link 2</a>
-        <a href="https://external-link.com">External Link 3</a>
-    </footer>
+        <a href="https://www.gifthub.me/home.html">External Link 1</a>
+        <a href="https://github.com/customer-terms">External Link 2</a>
+        <a href="https://github.com/services">External Link 3</a>
+        <a href="https://www.gifthub.me/support.html">External Link 4</a>
+        <a href="https://github.com/mikf/gallery-dl">External Link 5</a>
+        </footer>
 </body>
 </html>
 <img width="468" height="635" alt="image" src="https://www.pngall.com/wp-content/uploads/13/Github-Logo-PNG-Photo.png" />
