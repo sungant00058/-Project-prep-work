@@ -13,7 +13,7 @@
 " alt="Website Logo" />
         <nav>
             <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="home.html">Home</a></li>
                 <li><a href="about.html">About Us</a></li>
                 <li><a href="services.html">Services</a></li>
                 <li><a href="contact.html">Contact</a></li>
@@ -46,10 +46,10 @@
     <footer>
         <p>Copyright © 2023 Our Website.</p>
         <a href="https://www.gifthub.me/home.html">External Link 1</a>
-        <a href="https://github.com/customer-terms">External Link 2</a>
-        <a href="https://github.com/services">External Link 3</a>
+        <a href="https://github.com/customer-terms.html">External Link 2</a>
+        <a href="https://github.com/services.html">External Link 3</a>
         <a href="https://www.gifthub.me/support.html">External Link 4</a>
-        <a href="https://github.com/mikf/gallery-dl">External Link 5</a>
+        <a href="https://github.com/mikf/gallery-dl.html">External Link 5</a>
         </footer>
 </body>
 </html>
