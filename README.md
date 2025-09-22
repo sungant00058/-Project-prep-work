@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <img src="<img width="400" height="422" alt="image" src="https://github.com/user-attachments/assets/86708741-b558-41ba-8989-2e116543c5bd" />
+        <img src="<img width="400" height="422" alt="image" src="[https://github.com/user-attachments/assets/86708741-b558-41ba-8989-2e116543c5bd](https://www.pngall.com/wp-content/uploads/13/Github-Logo-PNG-Photo.png)" />
 " alt="Website Logo" />
         <nav>
             <ul>
