@@ -1,1 +1,21 @@
 
+<style>
+body {
+  background-color: orange;
+}
+h1 {
+  color: red;
+  margin-left: 50px;
+}
+h2 {
+  color: green;
+  margin-left: 50px;
+p {
+  color: purple;
+  margin-left: 50px;
+}
+img {
+  max width: 50%;
+  height: auto;
+</style>
+  
